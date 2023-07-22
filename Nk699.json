@@ -2,7 +2,7 @@
    "files": [   
  {
          "name": "TH_01_AISPLAY_GAME",
-         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/TH_01_AISPLAY_GAME.ovpn"
+         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/TH_01_AISPLAY_GAME.ovpn
       },
       
        {
@@ -16,39 +16,24 @@
       },
       
       {
-         "name": "TH_02_AISPLAY_GAME",
-         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/TH_02_AISPLAY_GAME.ovpn" 
+         "name": "VIP_01_AISPLAY_GAME",
+         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/VIP_01_AISPLAY_GAME.ovpn" 
       },
       
       {
-         "name": "TH_02_DTAC_GAME",
-         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/TH_02_DTAC_GAME.ovpn" 
+         "name": "VIP_01_DTAC_GAME",
+         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/VIP_01_DTAC_GAME.ovpn" 
       },
       
       {
-         "name": "TH_02_TRUE_GAME",
-         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/TH_02_TRUE_GAME.ovpn" 
-      },
-      
-      {
-         "name": "TH_03_AISPLAY_GAME.ovpn",
-         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/TH_03_AISPLAY_GAME.ovpn"
-      },
-      
-      {
-         "name": "TH_03_DTAC_GAME",
-         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/TH_03_DTAC_GAME.ovpn"
-      },
-      
-      {
-         "name": "TH_03_TRUE_GAME",
-         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/TH_03_TRUE_GAME.ovpn"
+         "name": "VIP_01_TRUE_GAME",
+         "url": "https://raw.githubusercontent.com/natthapon07032005/CocoaVPN/main/VIP_01_TRUE_GAME.ovpn" 
       }
       
       
 
    ],
-"message":"เพิ่มไฟล์เชิฟเวอร์ TH 3 เชิฟเวอร์\n🇹🇭 TH 1-3 เชิฟเวอร์ |ใช้ทั่วไป & เล่นเกมส์ได้\n📱โปรเสริมที่ใช้\nDTAC NOPRO\nTRUE NOPRO\nAIS = AISPLAY & กันรั่ว\nกดอัพเดทไฟล์ทุกวันเพื่อใช้งานไฟล์เวอร์ชั่นล่าสุด\nหากเชื่อมต่อไม่ได้ให้แจ้งแอดมินทันที\nCredit Config MilkVPN & COCOAVPN\nคอนฟิกเวอร์ชั่น : 1.1 \nอัพเดทล่าสุดเมื่อวันที่ : 19/พ.ค/2023\n \nผู้พัฒนาแอพ : COCOAVPN\n  ",
+"message":" \nรองรับ NOPRO Dtac  True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์สามารถใช้ทั่วไปและเล่นเกมส์ออนไลน์ได้\nหากเชื่อมต่อไม่ได้ให้แจ้งแอดมินทันที\nCredit MilkVPN\n คอนฟิกเวอร์ชั่น : 1.2 \nอัพเดทเมื่อวันที่ : 22/ก.ค./2023\n \nผู้พัฒนาแอพ : NATTHAPON BENYAMAS\n  ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 1.1
+   "version": 1.2
 }
